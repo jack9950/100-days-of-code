@@ -1,4 +1,20 @@
-# 100 Days of Code &mdash; Log
+Day 1: 5 Jan 2017
+
+**Today’s progress:**
+Forked the 100-days-of-code repo at https://github.com/jack9950/100-days-of-code. Learned the basics of git and GitHub. Committed my code from the Random Quote Machine to GitHub at https://github.com/jack9950/FCC-Random-Quote-Machine.
+
+**Thoughts:**
+I am really starting to love the command line (BASH on Linux Mint). Once I got the hang of it, using command line git to push my code to GitHub was a breeze. If I am serious about becoming a developer, I have to learn how to use Version Control and so far so good with git. Long way to go learning all the nitty gritty details of git, but off to a good start.
+
+I still need to refactor the Random Quote Machine code to be mobile responsive. I will start on this tomorrow. Over the last week I read through the basic Bootstrap tutorials at http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/ and I will refactor code to use the Bootstrap mobile first responsive 12 column grid.
+
+**Learned today:**
+Command line git: clone a repository, make changes, stage the changes, commit the changes locally and finally push the commit to remmote repository on GitHub.
+
+**Links to work:**
+https://github.com/jack9950/FCC-Random-Quote-Machine
+http://codepen.io/jack9950/full/begvmQ/
+
 
 <!--
 ## Day 1: 1 Jan 2017
