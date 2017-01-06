@@ -24,6 +24,8 @@ http://codepen.io/jack9950/full/begvmQ/
 **Links to work:**
 -->
 
+<!--
+
 ## Day 3: 3 Jan 2017
 
 **Today’s progress:** Finished the responsive large image code (both CSS and JavaScript) for the top section of the portfolio. I might tweak the text behavior a bit more later on, but for now it's working well.
@@ -55,3 +57,5 @@ http://codepen.io/jack9950/full/begvmQ/
 **Learned today:** How to add jQuery and other files to a Codepen.io project. How to use alert colors as background colors in Bootstrap. How to install Font Awesome via CDN ([see how](http://fontawesome.io/get-started/)), and how to code the icons (yay!).
 
 **Links to work:** “Build a Tribute Page”: [Georgia O’Keeffe, Artist](http://codepen.io/macloo/full/mORjyd/), in which I practiced using Bootstrap. This is a Free Code Camp project I finished earlier. Today I started “Build a Personal Portfolio Webpage”: [Another Free Code Camp project](http://codepen.io/macloo/full/rjBKLo/) with more Bootstrap. I exported today’s code [as a gist](https://gist.github.com/macloo/4448f77d928a7e3283910de0aab9f845).
+
+-->
