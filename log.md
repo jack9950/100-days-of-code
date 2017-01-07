@@ -1,4 +1,22 @@
-Day 1: 5 Jan 2017
+Day 2: Jan 6th 2017
+
+**Today’s progress:**
+Random Quote Machine: I finally got app resposive to mobile / phone screen. Next step: make it responsive across all screen sizes, small, medium, large and extra large.
+
+**Thoughts:**
+Bootstrap makes responsive design a lot easier. I see why it is so popular. Without it I would have to write miles of css and javascript. Based on my limited experience, this is what I guess I would have to do: First create a css grid system for each screen size. Then write the javascript to make the BOM and DOM class changes depending on the screen size. Thank you Bootstrap!
+
+I will continue to refactor the Random Quote Machine code to be responsive to all screen sizes. Over the last week I read through the basic Bootstrap tutorials at http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/ and I will refactor code to use the Bootstrap mobile first responsive 12 column grid.
+
+**Learned today:**
+Positioning content, floats, clearfix for floats to return the document flow back to normal, typography shorthand, setting relative line height for text.
+
+**Links to work:**
+https://github.com/jack9950/FCC-Random-Quote-Machine
+http://codepen.io/jack9950/full/begvmQ/
+
+
+Day 1: Jan 5th 2017
 
 **Today’s progress:**
 Forked the 100-days-of-code repo at https://github.com/jack9950/100-days-of-code. Learned the basics of git and GitHub. Committed my code from the Random Quote Machine to GitHub at https://github.com/jack9950/FCC-Random-Quote-Machine.
