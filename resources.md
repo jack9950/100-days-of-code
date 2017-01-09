@@ -9,9 +9,9 @@
 * [FreeCodeCamp](https://www.freecodecamp.com)
 
 
-#The resources below are from the original 100-days-of-code repo that I forked:
+##The resources below are from the original 100-days-of-code I forked from [macloo/100-days-of-code](https://github.com/macloo/100-days-of-code):
 
-##---------------------------------------------------------
+##______________________________________________________
 
 
 ## Recommended Resources
