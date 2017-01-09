@@ -1,4 +1,16 @@
-# Recommended Resources
+##The resources I have used so far:
+* [Git Documentation](https://git-scm.com/doc)
+* [Learn to Code HTML & CSS by Shay Howe](http://learn.shayhowe.com/html-css/)
+* [Tutorial Republic - Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
+* [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+* [Beginning JavaScript 5th Edition by Jeremy McPeak](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118903331.html)
+* [Atom Text Editor](https://atom.io/)
+* [Google Fonts](https://fonts.google.com/)
+* [FreeCodeCamp](https://www.freecodecamp.com)
+
+
+#The resources below are from the original 100-days-of-code repo that I forked:
+## Recommended Resources
 
 ## I used these
 * [How to Create an HTML/PHP Contact Form](http://webdesy.com/how-to-create-html-php-contact-form-part-2/)

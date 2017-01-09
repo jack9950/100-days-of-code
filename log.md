@@ -1,3 +1,23 @@
+Day 3: Jan 6th 2017
+
+**Today’s progress:**
+Random Quote Machine: App is now responsive across all screen sizes, small, medium, large and extra large. Used API http://api.forismatic.com/api/1.0/ for the random quotes. Next up, weather app.
+
+**Thoughts:**
+
+Picking great backgrounds is hard. I need a course of designing pages, colors, backgrounds etc.
+
+**Learned today:**
+Using backgrounds.
+
+**Links to work:**
+https://github.com/jack9950/FCC-Random-Quote-Machine
+http://codepen.io/jack9950/full/begvmQ/
+https://github.com/jack9950/FCC-Random-Quote-Machine
+https://github.com/jack9950/100-days-of-code
+
+
+
 Day 2: Jan 6th 2017
 
 **Today’s progress:**
