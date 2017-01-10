@@ -1,4 +1,43 @@
-Day 3: Jan 6th 2017
+Day 4: Jan 9th 2017
+
+**Today’s progress:**
+Weather app - got the user location and api calls working properly with ajax.
+
+APIs:
+  - http://ipinfo.io/developers for the user location lookup (using ip)
+  - https://openweathermap.org/api for the weather data
+
+To do:
+  1. Handle error conditions when the user's location cannot be found
+  2. Allow the user to change between Fahrenheit and Celcius
+  3. Add weather icons
+  4. Polish up the UI and make it responsive - probabaly use Bootstrap here again
+
+**Thoughts:**
+
+Learned the *HARD* way that asynchronous (ajax) requests do not stop the rest of script from continuing
+The A in ajax stands for asynchronous! I lost a lot of time like so:
+  - I initialized a variable outside the ajax function call. I then called the ajax function.
+    Within the ajax function, I updated the variable. Once the ajax was done,
+    I tried to use the variable (outside the ajax function). I kept getting undefined
+    as the value of the variable! After beating my head on Google search for a while,
+    I got a brutal reminder... because the request is asynchronous, the script went happily along.
+    When I tried to use the variable, the ajax call had not completed,
+    so the variable was still undefined! The variable was updated after the ajax call,
+    but too late for me to use it! At the time I called the variable, it was still undefined!
+
+**Learned today:**
+ajax calls really are asynchronous, as in really really, for real!
+The script keeps chugging along without waiting for the ajax call to return.
+This is a very good thing, but I have to keep this in mind before trying to use
+variables that need to be updated by the ajax code.
+
+**Links to work:**
+https://github.com/jack9950/100-days-of-code
+https://github.com/jack9950/Local-Weather
+
+
+Day 3: Jan 8th 2017
 
 **Today’s progress:**
 Random Quote Machine: App is now responsive across all screen sizes, small, medium, large and extra large. Used API http://api.forismatic.com/api/1.0/ for the random quotes. Next up, weather app.
