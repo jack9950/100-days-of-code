@@ -1,3 +1,38 @@
+Day 6: Jan 12th 2017
+**Today’s progress:**
+Figured out the Weather API icons and got the app pulling in the right icons from the api. Currently displaying weather in Fahrenheit.
+
+APIs:
+  - http://ipinfo.io/developers for the user location lookup (using ip)
+  - https://openweathermap.org/api for the weather data
+
+To do:
+  1. Handle error conditions when the user's location cannot be found
+  2. Allow the user to change between Fahrenheit and Celcius
+  3. Add a nice background that changes with the user's weather.
+  4. Polish up the UI and make it responsive - probably use Bootstrap here again
+  5. Allow the user to manually enter / change their location
+  6. Apply css styles to the app to give it polish
+
+**Thoughts:**
+UI design is tough!
+
+
+**Learned today:**
+-Pulling in external resources like icons
+-How to display degrees celcius using decimal, hexadecimal or UTF reference - I used
+ the decimal reference in the app.
+
+
+**Links to work:**
+https://github.com/jack9950/100-days-of-code
+https://github.com/jack9950/Local-Weather
+
+
+Day 5: Jan 11th 2017
+**Coded for an hour but was too exhausted from work to do anything else, so will summarize last 2 days under Day 6**
+
+
 Day 4: Jan 9th 2017
 
 **Today’s progress:**
