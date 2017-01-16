@@ -1,3 +1,30 @@
+Day 7 and 8:
+**Today’s progress:**
+Finished the weather app.
+
+APIs:
+  - http://ipinfo.io/developers for the user location lookup (using ip)
+  - https://openweathermap.org/api for the weather data
+  - http://cloudinary.com/ for free image hosting
+
+To do:
+  1. Allow the user to manually enter / change their location
+  2. Apply css styles to the app to give it polish
+
+**Thoughts:**
+UI design is tough! I need to add some better fonts to the app to make it look better.
+
+
+**Learned today:**
+- backgrounds and backgound sizing
+- Positioning the footer at the bottom of the page regardless of screen size and amount of content.
+
+
+**Links to work:**
+https://github.com/jack9950/100-days-of-code
+https://github.com/jack9950/Local-Weather
+
+
 Day 6: Jan 12th 2017
 **Today’s progress:**
 Figured out the Weather API icons and got the app pulling in the right icons from the api. Currently displaying weather in Fahrenheit.
