@@ -23,6 +23,7 @@ UI design is tough! I need to add some better fonts to the app to make it look b
 **Links to work:**
 https://github.com/jack9950/100-days-of-code
 https://github.com/jack9950/Local-Weather
+http://codepen.io/jack9950/full/wgzayE/
 
 
 Day 6: Jan 12th 2017
